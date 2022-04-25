@@ -1,3 +1,3 @@
 # Cálculo de impostos
 
-Programa de cálculo de impostos utilizando o Design Pattern Strategy.
+Programa de cálculo de impostos utilizando Design Pattern Strategy.
